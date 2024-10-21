@@ -1,7 +1,7 @@
 # BSc-in-Data-Engineering-and-Software-Development
 ![image](https://github.com/almasstudyjourney/BSc-in-Data-Engineering-and-Software-Development/blob/main/Banner.png)
 
-## Table des matières
+## Contenu
 - [Table des matières](#Table_des_matières)
 - [Licence](#LST_en_Ingénierie_de_données_et_développement_logiciel)
    - [Détails](#Détails)
