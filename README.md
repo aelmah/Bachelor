@@ -137,12 +137,31 @@ Il est important de noter que, bien que certains cours incluent des projets, d'a
 
 #### 5. Partenariats et Collaborations
 Non
+
+---
+## Highlights
+Dans cette section, j'ai mis en avant certains des meilleurs devoirs et projets, selon mon avis.
+
+   * **1. Analyse Factorielle des Correspondances (AFC)**
+      * Description:
+      * Fichier: 
+   * **2. Application Web: Gestion des Notes**
+      * Description:
+      * Fichier:
+   * **3. Reconnaissances des images**
+      * Description:
+      * Fichier:
+   * **4. Prediction Prix Maisaon**
+      * Description:
+      * Fichier:
+   * **5. Tableau de Bord Suivi des Finances Personnelles**
+      * Description:
+      * Fichier:
+
 #### 6. Contacts et Liens Utiles
 Pour plus d'informations, vous pouvez consulter [le site du programme](https://fsth.ma/pages/iddl.php) ou télécharger la [brochure officielle](https://fsth.ma/upload/docs/22/Depliant-iddl.pdf).
 
 
----
-## Ordre des cours
 
 ---
 
