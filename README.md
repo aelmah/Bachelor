@@ -3,21 +3,22 @@
 
 ## Contenu
 - [Contenu](#Table_des_matières)
-- [LST-IDDL](#LST_en_Ingénierie_de_données_et_développement_logiciel)
-   - [Détails](#Détails)
 - [Introduction](#Introduction)
 - [Navigation](#navigation)
 - [Programme](#Programme)
-   - [À propos du programme](#à-propos-du-programme)
-   - [Évaluation du programme](#évaluation-du-programme)
-   - [Points forts](#points-forts)
-   - [Ordre des cours](#ordre-des-cours)
-      - [Semestre 1](#année-1)
-      - [Semestre 2](#année-2)
-      - [Semestre 3](#année-2)
-      - [Semestre 4](#année-2)
-      - [Semestre 5](#année-2)
-      - [Semestre 6](#année-2)
+   - [1. Présentation](#1.Présentation)
+   - [2. Objectifs du Programme et Compétences a acquerir](#2.Objectifs_du_Programme_et_Compétences_a_acquerir)
+   - [3. Méthode d'Enseignement](#3.Méthode_d'Enseignement)
+   - [4. Partenariats et Collaborations](#4.Partenariats_et_Collaborations)
+   - [5. Modules Ou Cours](5.Modules_Ou_Cours)
+      - [Semestre 1](#Semestre_1)
+      - [Semestre 2](#Semestre_2)
+      - [Semestre 3](#Semestre_3)
+      - [Semestre 4](#Semestre_4)
+      - [Semestre 5](#Semestre_5)
+      - [Semestre 6](#Semestre_6)
+
+- [Highlights](Highlights)
 - [Avertissement](#avertissement)
 - [Informations de contact](#informations-de-contact)
 
@@ -49,14 +50,12 @@ Il est important de noter que, bien que certains cours incluent des projets, d'a
 * **Faculté**: [Faculté des Sciences et Techniques](https://fsth.ma/)
 * **Programme**: Licence en Sciences et Techniques (LST) filière Ingénierie de Données et Développement Logiciel
 * **Structure**: 6 semestres, Temps plein
-* **Lien**: [LST -IDDL](https://fsth.ma/upload/docs/22/Depliant-iddl.pdf)
+
 
 #### 2. Objectifs du Programme et Compétences a acquerir
 ![image](https://github.com/almasstudyjourney/BSc-Data-Engineering-and-Software-Development/blob/main/Obj_page-0001.jpg)
 
-
-
-
+Pour plus d'informations, vous pouvez consulter [le site du programme](https://fsth.ma/pages/iddl.php) ou télécharger la [brochure officielle](https://fsth.ma/upload/docs/22/Depliant-iddl.pdf).
 
 
 
@@ -71,9 +70,14 @@ Il est important de noter que, bien que certains cours incluent des projets, d'a
 
 * **Projets de fin de semestre :** Réalisation de projets académiques pour mettre en pratique les compétences acquises dans chaque semestre, souvent en groupe pour favoriser le travail collaboratif.
 
+#### 4. Partenariats et Collaborations
+Non
 
 
-#### 4. Modules Ou Cours
+---
+
+
+#### 
 
 ### Semestre 1
 | Code du module | Intitulé du module                                | Description |
@@ -135,8 +139,7 @@ Il est important de noter que, bien que certains cours incluent des projets, d'a
 
 
 
-#### 5. Partenariats et Collaborations
-Non
+
 
 ---
 ## Highlights
@@ -158,8 +161,7 @@ Dans cette section, j'ai mis en avant certains des meilleurs devoirs et projets,
       * Description:
       * Fichier:
 
-#### 6. Contacts et Liens Utiles
-Pour plus d'informations, vous pouvez consulter [le site du programme](https://fsth.ma/pages/iddl.php) ou télécharger la [brochure officielle](https://fsth.ma/upload/docs/22/Depliant-iddl.pdf).
+
 
 
 
@@ -167,7 +169,15 @@ Pour plus d'informations, vous pouvez consulter [le site du programme](https://f
 
 
 ## Avertissement
-Information about licensing...
+Veuillez noter que ce dépôt est destiné uniquement à des fins éducatives et de portfolio. Il représente mon évolution et mes progrès en tant qu'étudinate en Ingénierie de données et Développement Logiciel au cours de mes études. Certains projets peuvent inclure du code ou des solutions fournies dans le cadre des matériaux de cours, tandis que d'autres peuvent impliquer un travail collaboratif avec des camarades ou des conseils d'instructeurs.
+
+Il est important de respecter les politiques d'intégrité académique et les directives de votre propre institution lorsque vous utilisez ce dépôt comme référence.
+
 
 ---
 ## Informations de contact
+Si vous avez des questions, souhaitez discuter de l'un des projets plus en détail, ou simplement entrer en contact, n'hésitez pas à me contacter :
+ * **Nom et Prénom:** El Mahraoui Amal
+ * **Email:** aa.elmahraoui@gmail.com
+
+
