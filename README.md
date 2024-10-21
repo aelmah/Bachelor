@@ -39,7 +39,7 @@ How to use the project...
 ## Évaluation du programme
 ## Points forts
 ## Ordre des cours
-## Semstre 1
+## Semestre 1
 ## Semestre 2
 
 ## Avertissement
