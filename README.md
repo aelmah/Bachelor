@@ -52,6 +52,7 @@ Il est important de noter que, bien que certains cours incluent des projets, d'a
 * **Lien**: [LST -IDDL](https://fsth.ma/upload/docs/22/Depliant-iddl.pdf)
 
 #### 2. Objectifs du Programme et Compétences a acquerir
+![image](https://github.com/almasstudyjourney/BSc-Data-Engineering-and-Software-Development/blob/main/Obj_page-0001.jpg)
 
 
 
