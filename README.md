@@ -166,6 +166,16 @@ Dans cette section, j'ai mis en avant certains des meilleurs devoirs et projets,
 
 
 ---
+## Langages, Outils et Technologies
+
+Au cours de ma formation, j'ai eu l'opportunité de travailler avec divers langages de programmation, outils et technologies. Voici une liste des principaux :
+
+| **Catégorie**            | **Langages/ Outils/ Technologies**                                                |
+|--------------------------|-----------------------------------------------------------------------------------|
+| **Langages de Programmation** | - **Python** : Pour l'analyse de données, machine learning, et développement de scripts. <br> - **Java** : Programmation orientée objet et développement d'applications. <br> - **C** : Programmation bas niveau et manipulation des structures de données. <br> - **SQL/ PL SQL** : Requêtes pour la gestion de bases de données relationnelles. <br> - **HTML/CSS/JavaScript** : Développement de sites web dynamiques. |
+| **Outils et Technologies** | - **Jupyter Notebook** : Environnement de développement interactif pour Python. <br> - **TensorFlow/Keras/ Scikit-learn** : Bibliothèques pour le machine learning et le deep learning. <br> - **Git/GitHub** : Gestion du code source et collaboration. <br> - **MySQL/ PL/SQL** : Gestion et interrogation de bases de données. <br> - **Power BI** : Outil de visualisation de données pour des rapports dynamiques. <br> - **UML** : Pour la modélisation et conception des systèmes logiciels. <br> - **Django/Flask/Streamlit** : Frameworks pour le développement web en Python. <br> - **Pandas, NumPy, Matplotlib, Seaborn** : Bibliothèques Python pour l'analyse de données et la visualisation. |
+| **Environnements de Développement** | - **VS Code** : Éditeur de code pour plusieurs langages. <br> - **PyCharm** : IDE dédié à Python pour le développement. <br> - **IntelliJ IDEA** : IDE pour le développement en Java. <br> - **Linux** : Système d'exploitation utilisé pour le développement et l'administration de systèmes. |
+
 
 
 ## Avertissement
