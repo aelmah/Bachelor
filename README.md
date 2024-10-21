@@ -22,7 +22,7 @@
 * **Université**: [Université Abdelmalek Essaadi](https://www.uae.ac.ma/)
 * **Faculté**: [Faculté des Sciences et Techniques](https://fsth.ma/)
 * **Programme**: Licence en Science et Techniques (LST) filière Ingénierie de Données et Développement Logiciel
-* **Structure**: 6 semstres, Temps plein
+* **Structure**: 6 semestres, Temps plein
 * **Lien**: [LST -IDDL](https://fsth.ma/upload/docs/22/Depliant-iddl.pdf)
   
 ## Introduction
