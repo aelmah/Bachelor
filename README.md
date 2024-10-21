@@ -14,6 +14,10 @@
    - [Ordre des cours](#ordre-des-cours)
       - [Semestre 1](#année-1)
       - [Semestre 2](#année-2)
+      - [Semestre 3](#année-2)
+      - [Semestre 4](#année-2)
+      - [Semestre 5](#année-2)
+      - [Semestre 6](#année-2)
 - [Avertissement](#avertissement)
 - [Informations de contact](#informations-de-contact)
 
@@ -39,8 +43,7 @@ How to use the project...
 ## Évaluation du programme
 ## Points forts
 ## Ordre des cours
-## Semestre 1
-## Semestre 2
+
 
 ## Avertissement
 Information about licensing...
