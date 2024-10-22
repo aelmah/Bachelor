@@ -86,7 +86,7 @@ Non
 | M2             | Mécanique du point et Optique géométrique         | Concepts de base en mécanique et optique géométrique. |
 | M3             | Analyse 1 : Fonction d’une variable réelle        | Introduction à l'analyse des fonctions d'une variable réelle. |
 | M4             | Algèbre 1 : Polynômes et espaces vectoriels       | Étude des polynômes et des espaces vectoriels. |
-| M5             | Algorithmique et Programmation                   | Initiation à l'algorithmique et à la programmation informatique (language C). |
+| M5             | Algorithmique et Programmation                   | Initiation à l'algorithmique et à la programmation informatique (langage C). |
 | M6             | TEC 1                                             | Techniques d'expression et de communication. |
 
 ### Semestre 2
