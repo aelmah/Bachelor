@@ -1,0 +1,272 @@
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\UseRawInputEncoding
+\documentclass[a4paper, 11pt, oneside]{book}
+\usepackage[T1]{fontenc}    % font
+\usepackage[utf8]{inputenc} % input encoding 
+\usepackage[french]{babel} % language(s) last one is the main one
+\usepackage[margin=3cm, bindingoffset=1cm]{geometry}
+\usepackage{listings}
+\usepackage{amsfonts,amssymb,amsmath,amsthm,marvosym,wasysym,cancel,physics,bm, mathdots}
+
+
+\linespread{1.6}
+\usepackage[backend=biber, sorting=none]{biblatex}
+\addbibresource{bibliographie.bib}
+
+\usepackage{float}
+\usepackage{csquotes}
+\usepackage{subfig}
+
+\usepackage{graphicx}
+\graphicspath{{./Figure/}}
+
+
+\usepackage{indentfirst}
+\usepackage{fancyhdr}
+\setlength{\parindent}{1cm}
+
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{\thechapter.\ \uppercase{#1}}{}}
+\fancyhf{}
+\fancyhead[C]{\textbf{\leftmark}}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{1pt}
+\renewcommand{\footrulewidth}{1pt}
+%%%%
+%%%% SCEGLI QUALE TI PIACE
+%%%%
+%\usepackage[Conny]{fncychap}
+%\usepackage[Sonny]{fncychap}
+%\usepackage[Lenny]{fncychap}
+%\usepackage[Glenn]{fncychap}
+%\usepackage[Rejne]{fncychap}
+%\usepackage[Bjarne]{fncychap}
+\usepackage[Bjornstrup]{fncychap}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%%%
+%%%
+%%%%
+\newcommand{\degree}{\ensuremath{^\circ}}
+\newcommand{\txtu}[1]{\textsuperscript{#1}}
+\newcommand{\txtd}[1]{\textsubscript{#1}}
+\newcommand{\bit}{\begin{itemize}}
+\newcommand{\eit}{\end{itemize}}
+\newcommand{\ben}{\begin{enumerate}}
+\newcommand{\een}{\end{enumerate}}
+\newcommand{\ihat}{\boldsymbol{\hat{\mathbf{\text{\i}}}}}%%VERSORI ijk come dio comanda
+\newcommand{\jhat}{\boldsymbol{\hat{\mathbf{\text{\j}}}}}
+\newcommand{\khat}{\boldsymbol{\hat{\mathbf{k}}}}
+
+
+
+%%%%%%%%%%%%%%%
+\usepackage{moresize,anyfontsize}
+\usepackage{multicol, setspace}
+\usepackage{Acorn, AnnSton, ArtNouv, ArtNouvc, Carrickc, Eichenla, Eileen, EileenBl, Elzevier, GotIn, GoudyIn, Kinigcap, Konanur, Kramer, MorrisIn, Nouveaud, Romantik, Rothdn, Sanremo, Starburst, Typocaps, Zallman}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{lettrine}
+\usepackage{yfonts}
+\DeclareFontShape{LYG}{ygoth}{m}{n}{ <-> ygoth}{}  %\gothfamily
+\DeclareFontShape{LY}{yfrak}{m}{n}{<->yfrak}{}   %\frakfamily
+\DeclareFontShape{LY}{yswab}{m}{n}{<->yswab}{}  
+%\usepackage{tgbonum}
+\usepackage{lmodern}
+%\usepackage{tgschola}
+%\usepackage{antpolt}
+%\usepackage{quattrocento}
+%\usepackage[sfdefault]{quattrocento}
+%\usepackage[light,math]{kurier}
+%\usepackage[default]{mintspirit}
+%\usepackage{avant}
+%\usepackage[scaled=.92]{helvet}%. Sans serif - Helvetica DEFAULT
+%\usepackage[sfdefault,light]{roboto}
+%\usepackage[sfdefault,thin]{roboto}
+%\usepackage[sfdefault]{roboto}
+%\usepackage{drm}
+%\usepackage{gfsartemisia}
+%\usepackage[light,math]{iwona}
+%\usepackage{accanthis}
+%\usepackage{gentium}
+%\usepackage[light]{merriweather}
+%\usepackage[black]{merriweather}
+%\usepackage{tgchorus}
+\usepackage{calligra}
+%\usepackage{carolmin}
+\ignorespaces\fontseries{b}\fontshape{sl}
+\renewcommand{\LettrineTextFont}{\normalfont}
+%\usepackage{microtype}
+%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%
+
+
+
+
+
+\title{rap}  %% rapport
+\author{elmahraoui}  %% auteur
+%\date{XXXX}
+
+
+
+\newenvironment{dedication}
+  {\clearpage           % we want a new page
+   \thispagestyle{empty}% no header and footer
+   \vspace*{\stretch{1}}% some space at the top 
+   \itshape             % the text is in italics
+   \raggedleft          % flush to the right margin
+  }
+  {\par % end the paragraph
+   \vspace{\stretch{3}} % space at bottom is three times that at the top
+   \clearpage           % finish off the page
+  }
+  
+  
+  
+%%%%Initialisation
+\begin{document}
+
+
+
+\begin{dedication}
+
+"La parole nous transforme parce qu'elle nous force à préciser nos idées, mais l'écoute est encore plus puissante, car elle nous ouvre \par
+à d'autres univers que le nôtre."\par
+                           -Christophe André.
+
+\end{dedication}
+
+
+
+
+%%%%%%%%%%%%%%%%%
+%%%%%%%%%% Corps du rapport
+%%%%%%%%%%%%%%%%%
+
+
+\tableofcontents
+
+\clearpage
+\sloppy
+\hyphenpenalty=10000
+\exhyphenpenalty=10000
+
+
+\frenchspacing  %% Désactive un comportement standard de LaTeX qui ajoute un espace supplémentaire (parfois désagréable selon moi) après un point, un point d'interrogation, un point d'exclamation, et autres. C'est à toi de décider si tu veux le conserver.
+
+
+
+\chapter{Introduction}\label{ch:intro}
+
+\vspace{10mm}
+
+\rightline{``L'idéal consiste à ne pas devoir être une grande bouche pour conseiller}
+\rightline{ à ne pas devoir une grande main pour montrer comment faire, }
+\rightline{mais à être une grande oreille pour écouter.''}
+\rightline{\textit{Swami Prajnanpad, maître spirituel indien du XXe siècle.}}     
+ \vspace{5mm}
+ 
+\lettrine[lines=2, depth=0, lraise=-0.1, findent=0.3em, nindent=0.3em]{\color{BrickRed}\fontsize{50pt}{72pt}L}{a communication}  est la pierre angulaire de toutes les relations humaines. Que ce soit dans le cadre personnel ou professionnel, notre capacité à communiquer efficacement peut déterminer le succès ou l'échec de nos interactions. Cependant, souvent négligée mais tout aussi cruciale, se trouve la capacité d'écouter activement. Cette présentation explorera l'importance de la communication et mettra en lumière la puissance de l'écoute attentive dans nos interactions quotidiennes. 
+
+\chapter{La Communication : Fondation des Relations Humaines }\label{ch:1}
+
+\lettrine[lines=2, depth=0, lraise=-0.1, findent=0.3em, nindent=0.3em]{\color{BrickRed}\fontsize{50pt}{72pt}L}{a communication} est bien plus que le simple échange de mots. C'est un processus complexe impliquant la transmission et la réception d'informations, ainsi que la compréhension mutuelle. Dans un monde où les interactions sont devenues de plus en plus numériques, la communication efficace est devenue un atout précieux.
+
+
+\section{Les Principes de la Communication}\label{sec:prova}
+
+\begin{enumerate}
+    \item \textbf{Clarté :} L'importance de s'exprimer de manière concise et compréhensible.
+    \item \textbf{Écoute :} Reconnaître l'importance d'écouter activement pour comprendre les besoins et les perspectives des autres.
+    \item \textbf{Empathie :} Comprendre les émotions et les sentiments des autres pour établir des liens significatifs.
+    \item \textbf{Authenticité :} Être vrai et honnête dans nos interactions pour établir la confiance.
+\end{enumerate}
+
+\section{Les types de la communication}\label{subsec:prova}
+\subsection{La communication interpersonnelle}
+Lorsque le récepteur est seul, on parle de communication interpersonnelle. Ce type de communication est un échange entre deux individus, deux collègues à la cafétéria ou un client et son fournisseur \cite{haiilo}.
+
+Ce type de communication repose sur 4 éléments :
+
+\begin{itemize}
+    \item la présence d’un émetteur qui transmet un message en le convertissant de sa pensée au langage
+    \item la présence d’un récepteur qui le reçoit en le convertissant du langage à sa pensée
+    \item un canal de communication défini pouvant être verbal ou écrit
+    \item une réponse ou réaction du récepteur
+
+L’École Palo Alto et le psychologue Paul Watzlawick nous éclairent sur ce type de communication. Selon eux, la communication n’est pas uniquement verbale. Le comportement du corps humain, ses gestes, ses mimiques, sa posture font partie du langage non verbal et permettent, eux aussi, d’envoyer un message. Même les silences peuvent être interprétés par le récepteur. Ensuite, toute interaction suppose un engagement et définit par la suite une relation. Il existe des leaders et des suiveurs, la communication pourra alors devenir symétrique ou complémentaire, selon le profil des communicants, et si chacun accepte la position de l’autre.
+\end{itemize}
+
+\subsection{La communication de groupe}
+À partir du moment où l’émetteur s’adresse à plus d’un récepteur, nous pouvons parler de communication de groupe. Ce type de communication s’est particulièrement développée avec la société de consommation d’après-guerre. La publicité est devenue, au fil des années, un exemple type de communication de groupe. D’abord concentrés à atteindre le plus grand nombre de clients possibles, les publicitaires ont ensuite décidé de cibler des groupes d’individus précis.
+
+Contrairement à la communication de masse, la communication de groupe permet donc de toucher un public plus réceptif au message transmis. Outre l’aspect commercial, le discours d’un entraîneur avant le début d’un match ou l’exposé d’un élève en classe font également partie de la communication de groupe.
+
+\subsection{La communication de masse}
+La communication de masse vise la transmission d’une information à un plus large public possible. Ce type de communication un ensemble de médias, appelés mass-media, capables de toucher un très large public (télévision, radio, internet, envois postaux).
+
+Une communication importante de messages liés à la santé publique ou le discours d’un président de la République diffusés à la télévision sont des exemples de communication de masse.
+
+La communication de masse est unidirectionnelle puisqu’elle n’attend pas une rétroaction des récepteurs au vu de leur grand nombre.
+
+Aujourd’hui, la plupart des entreprises ne peuvent plus se contenter de faire de la communication de masse traditionnelle. Face à la concurrence, elles doivent répondre aux attentes d’un public souhaitant davantage de personnalisation et proposer différents types de communication. Les réseaux sociaux, par exemple, permettent de toucher des groupes beaucoup plus ciblés.
+
+
+\chapter{La capacité d'écoute }\label{ch:2}
+
+\lettrine[lines=2, depth=0, lraise=-0.1, findent=0.3em, nindent=0.3em]{\color{BrickRed}\fontsize{50pt}{72pt}L}{a capacité} d'écoute fait référence à la compétence et à la disposition d'une personne à écouter attentivement, activement et efficacement lorsqu'elle interagit avec d'autres individus. Cette capacité englobe plusieurs aspects, notamment :
+
+\textbf{L'Attention :} La capacité d'écoute nécessite une attention pleine et entière accordée à la personne qui parle. Cela implique de se concentrer mentalement sur ce qui est dit et d'éliminer les distractions externes et internes.
+
+\textbf{La compréhension :} Écouter efficacement implique non seulement d'entendre les mots prononcés, mais aussi de les comprendre dans leur contexte. Cela comprend la capacité à saisir les nuances, les émotions et les intentions derrière les propos de l'autre personne.
+
+\textbf{L'Empathie :} Une capacité d'écoute développée inclut également un niveau d'empathie, c'est-à-dire la capacité de se mettre à la place de l'autre personne et de comprendre ses sentiments, ses préoccupations et ses perspectives.
+
+\textbf{La réponse appropriée :} Une bonne écoute ne se limite pas à entendre et comprendre, mais implique également de répondre de manière appropriée. Cela peut signifier poser des questions pertinentes, fournir un feedback constructif ou simplement offrir un soutien émotionnel.
+
+\textbf{L'ouverture d'esprit :} La capacité d'écoute suppose une ouverture d'esprit et une disposition à considérer les points de vue et les opinions différents de ceux de la personne qui écoute. Cela favorise un dialogue constructif et une communication efficace.
+
+\section{Stratégies pour Développer une Écoute Active et Profonde}
+Améliorer sa capacité d'écoute nécessite un engagement actif et un effort conscient pour développer cette compétence essentielle \cite{agendrix}. 
+
+\begin{enumerate}
+    \item \textbf{Pratiquer l'écoute active :} Prenez l'habitude de prêter une attention totale à ce que dit l'autre, en éliminant les distractions et en restant pleinement présent dans le moment. Cela signifie écouter activement sans penser à ce que vous allez dire ensuite.
+   
+    \item \textbf{Poser des questions ouvertes :} Encouragez l'autre personne à partager davantage en posant des questions ouvertes qui favorisent une conversation approfondie. Évitez les questions fermées qui ne nécessitent qu'une réponse courte.
+    
+    \item \textbf{Résumer et clarifier :} Après avoir écouté attentivement, répétez ou résumez ce qui a été dit pour vous assurer d'avoir bien compris. Si quelque chose n'est pas clair, n'hésitez pas à poser des questions pour obtenir des éclaircissements.
+   
+    \item \textbf{Pratiquer l'empathie :} Mettez-vous à la place de l'autre personne et essayez de comprendre ses émotions, ses perspectives et ses besoins. Montrez de l'empathie en reconnaissant et en validant ses sentiments.
+   
+    \item \textbf{Éliminer les préjugés :} Évitez de sauter à des conclusions hâtives ou de juger l'autre personne avant d'avoir entendu son point de vue. Gardez l'esprit ouvert et soyez disposé à considérer différentes perspectives.
+     
+    \item \textbf{Être conscient de ses propres filtres :} Reconnaissez que vos propres expériences, croyances et préjugés peuvent influencer votre façon d'écouter. Soyez conscient de ces filtres et essayez de les mettre de côté pour écouter de manière objective.
+     
+    \item \textbf{Pratiquer la présence attentive :} Cultivez la présence attentive en vous concentrant sur la personne qui parle et en faisant preuve d'un intérêt sincère pour ce qu'elle dit. Évitez de vous laisser distraire par d'autres pensées ou stimuli externes.
+     
+    \item \textbf{Recevoir des feedbacks :} Demandez à vos proches, collègues ou amis de vous donner des feedbacks sur votre capacité d'écoute. Identifiez les domaines où vous pouvez vous améliorer et travaillez activement sur ces aspects.
+\end{enumerate}
+
+\section{La relation entre la communication et l'écoute active}
+L’écoute est le point de départ de la communication. Avant d’émettre, il faut être capable de recevoir. Bien écouter fait partie des soft skills, et permet de désamorcer des situations de crise, de se concentrer sur le factuel, d’activer l’intelligence collective, en multipliant les points de vue sur le réel \cite{lefebvre-dalloz}.\par
+L'écoute active constitue le fondement sur lequel repose la communication réussie. En écoutant attentivement les autres, en prêtant une attention totale à leurs paroles, à leurs émotions et à leurs intentions, nous établissons une connexion authentique. Cela favorise une meilleure compréhension mutuelle, réduit les malentendus et renforce les relations. En outre, une écoute attentive permet de fournir un feedback adapté, d'exprimer des idées avec clarté et de faciliter la résolution de conflits. Ainsi, la capacité d'écoute enrichit la qualité de la communication en favorisant un échange ouvert, empathique et constructif.
+
+
+
+\chapter{Conclusion}
+En conclusion, la communication efficace et l'écoute active sont des compétences essentielles dans tous les aspects de la vie. En comprenant l'importance de ces deux aspects et en les pratiquant activement, nous pouvons améliorer nos relations, résoudre les conflits et créer un environnement où chacun se sent écouté et compris. Investir dans ces compétences peut apporter d'énormes bénéfices à la fois sur le plan personnel et professionnel.
+
+
+
+
+\printbibliography
+
+
+
+
+\end{document}
