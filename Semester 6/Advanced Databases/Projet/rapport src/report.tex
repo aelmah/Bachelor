@@ -1,0 +1,152 @@
+\documentclass[12pt]{report}
+
+%------------------- declaring packages---------------------------------
+
+
+% styling and graphics-based
+\usepackage{url}
+\usepackage{graphicx} 
+\usepackage{emptypage}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{pgf}
+\usepackage{pgffor}
+\doublespacing
+
+% for figures and tables
+
+% figures:
+\usepackage{subfigure}  
+\usepackage{adjustbox}
+\usepackage{wrapfig}
+\usepackage{subfigure}
+\usepackage{rotating}
+\usepackage{lscape}
+% tables:
+\usepackage{tabularx,ragged2e,booktabs,caption}
+\usepackage{multicol,tabularx,capt-of}
+\usepackage{hhline}
+\usepackage{multirow}
+\usepackage{array}
+
+
+% for math equations
+
+\usepackage{amssymb}
+\usepackage{float}
+\usepackage{verbatim}
+\usepackage{amsmath} 
+\usepackage{amsthm}   
+
+
+% for acronyms and glossaries
+
+\usepackage{acronym}
+\usepackage{glossaries}
+
+
+% for hyperlinks
+
+\usepackage[round]{natbib}
+\usepackage[colorlinks = true,
+            linkcolor = blue,
+            urlcolor  = blue,
+            citecolor = blue,
+            anchorcolor = blue]{hyperref}
+
+\usepackage{sectsty}
+\allsectionsfont{\bfseries}
+\chapterfont{\centering\Large}
+\sectionfont{\normalsize}
+\subsectionfont{\normalsize}
+
+
+\usepackage [english]{babel}
+\usepackage [autostyle, english = american]{csquotes}
+\MakeOuterQuote{"}
+
+
+
+% header formatting
+
+
+
+%footer formatting
+
+\interfootnotelinepenalty=10000 
+
+\usepackage{epstopdf}
+\usepackage{lipsum} 
+
+%----------------------------begin document-------------------------------
+
+
+\begin{document}
+\begin{titlepage}
+
+\end{titlepage}
+
+%\frontmatter
+\pagenumbering{roman}
+
+\chapter*{Abstract}
+This project presents the development of a Personal Financial Dashboard aimed at enhancing financial management and decision-making skills. Leveraging Power BI as the primary tool, the dashboard aggregates and visualizes individual financial data, offering insights into income, expenses, and overall financial health. Through a user-centered design approach, the dashboard provides a user-friendly interface, enabling users to track their financial activities comprehensively. The iterative development process addressed challenges in data management, visualization design, and user experience, resulting in an intuitive and impactful financial management tool. This project underscores the importance of financial literacy and empowerment in personal finance and demonstrates the potential of personal financial dashboards in facilitating informed financial decision-making.
+\\\
+\vspace{1cm}
+\textbf{Keywords: }{Personal Financial Dashboard, Power BI. }
+
+\tableofcontents{}
+
+\listoffigures{}
+
+\include{Acronyms}
+ 
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%ù 
+\pagenumbering{arabic}
+\chapter*{Introduction}
+
+\textbf{Statement of the Problem}
+
+The lack of effective tools for personal financial management poses a significant challenge for individuals seeking to achieve financial stability and secure their future. Without a comprehensive system in place, many individuals struggle to track their income, expenses, and savings effectively, leading to financial stress and uncertainty.
+\textbf{Objectives}
+
+The primary objective of this project is to address the aforementioned challenge by developing a Personal Financial Dashboard. This tool aims to empower individuals to take control of their finances by providing a user-friendly platform for organizing, analyzing, and visualizing their financial data. Specifically, the objectives of the project include:
+
+\begin{itemize}
+   
+     \item Designing and implementing a dashboard interface for tracking income, expenses, and savings.
+     \item Providing users with insights into their financial habits and patterns through data visualization.
+     \item Improving financial literacy and decision-making skills through the use of informative dashboards.
+    \item Enhancing user experience and usability to ensure accessibility for individuals of all levels of financial expertise.
+\end{itemize}
+
+
+    
+\include{Chapter1}
+
+\include{Chapter2}
+
+\include{Annex}
+
+
+\bibliographystyle{plain}
+\bibliography{bib}
+ \cite{techtarget, sqlspreads}.
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
