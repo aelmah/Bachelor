@@ -145,21 +145,35 @@ Non
 ## Highlights
 Dans cette section, j'ai mis en avant certains des meilleurs devoirs et projets, selon mon avis.
 
-   * **1. Analyse Factorielle des Correspondances (AFC)**
-      * Description:
-      * Fichier: 
-   * **2. Application Web: Gestion des Notes**
-      * Description:
-      * Fichier:
-   * **3. Reconnaissances des images**
-      * Description:
-      * Fichier:
-   * **4. Prediction Prix Maisaon**
-      * Description:
-      * Fichier:
-   * **5. Tableau de Bord Suivi des Finances Personnelles**
-      * Description:
-      * Fichier:
+   * **1. Détection et Classification des images en utilisant CNN**
+     
+      * **Description:**
+         Ce projet consiste en la détection et la classification d'images à l'aide du dataset Fashion MNIST, qui comprend 70 000 images de vêtements et accessoires en noir et blanc, classés en 10 catégories différentes. Pour cette tâche, j'ai développé un modèle de réseau de neurones convolutionnels (CNN) qui exploite la puissance des convolutions pour extraire les caractéristiques essentielles des images et améliorer les performances de classification.
+
+      * **Méthodologie:**
+        * Prétraitement des données : Les images ont été normalisées et redimensionnées pour garantir une entrée uniforme dans le modèle.
+          
+        * Architecture du CNN : J'ai conçu un modèle comprenant plusieurs couches convolutionnelles, suivies de couches de pooling, et enfin, des couches entièrement connectées pour la classification finale.
+          
+        * Entraînement : Le modèle a été entraîné sur un ensemble d'apprentissage, avec une validation croisée pour ajuster les hyperparamètres et éviter le surapprentissage.
+        * Évaluation : Les performances du modèle ont été évaluées sur un ensemble de test, en mesurant des métriques telles que la précision, le rappel et le score F1.
+        * **Resultats:** Le modèle a atteint une précision de classification de [91]%, démontrant ainsi son efficacité dans la reconnaissance des différentes catégories de vêtements.
+      * Fichier: [Détection et Classification des images](https://github.com/almasstudyjourney/BSc-Data-Engineering-and-Software-Development/tree/main/Semester%206/Artificial%20Intelligence%20/Deep%20Learning/Projet4)
+   * **2.Tableau de Bord Suivi des Finances Personnelles**
+      * **Description:** Ce projet consiste à créer un tableau de bord interactif pour le suivi des finances personnelles à l'aide de **Power BI**. L'objectif est de fournir aux utilisateurs une plateforme visuelle qui permet une vue d'ensemble claire et intuitive de leur situation financière, facilitant ainsi la gestion de leurs revenus, de leurs dépenses et de leur épargne.
+      * **Méthodologie:**
+        * Collecte des données : Les utilisateurs entrent leurs revenus et leurs dépenses mensuelles dans des catégories définies (alimentation, logement, transport, loisirs, etc.).
+Prétraitement : Les données sont normalisées et agrégées pour une analyse cohérente.
+        * Visualisation : Utilisation de graphiques et de tableaux pour représenter visuellement les données financières, permettant de suivre l'évolution des dépenses et des revenus au fil du temps.
+      * **Fonctionnalités:**
+        * Résumé Financier : Vue d'ensemble des revenus, des dépenses et de mise à jour en temps réel.
+        * Analyse des Dépenses : Graphiques et tableaux permettant de visualiser les dépenses par catégorie et d'identifier les domaines d'amélioration avec des alertes si l'utilisateurs a dépasser la date prévu pour le payement.
+        * Évolution Mensuelle : Suivi de l'évolution des revenus et des dépenses au fil des mois à l'aide de graphiques linéaires.
+
+      * **Fichier:**  [Personal Financial Dashboard - Power BI](https://github.com/almasstudyjourney/BSc-Data-Engineering-and-Software-Development/tree/main/Semester%206/Advanced%20Databases/Projet)
+
+        
+  
 
 
 
