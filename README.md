@@ -163,7 +163,7 @@ Dans cette section, j'ai mis en avant certains des meilleurs devoirs et projets,
       * **Description:** Ce projet consiste à créer un tableau de bord interactif pour le suivi des finances personnelles à l'aide de **Power BI**. L'objectif est de fournir aux utilisateurs une plateforme visuelle qui permet une vue d'ensemble claire et intuitive de leur situation financière, facilitant ainsi la gestion de leurs revenus, de leurs dépenses.
       * **Méthodologie:**
         * Collecte des données : Les utilisateurs entrent leurs revenus et leurs dépenses mensuelles dans des catégories définies (alimentation, logement, transport, loisirs, etc.).
-Prétraitement : Les données sont normalisées et agrégées pour une analyse cohérente.
+        * Prétraitement : Les données sont normalisées et agrégées pour une analyse cohérente.
         * Visualisation : Utilisation de graphiques et de tableaux pour représenter visuellement les données financières, permettant de suivre l'évolution des dépenses et des revenus au fil du temps.
       * **Fonctionnalités:**
         * Résumé Financier : Vue d'ensemble des revenus, des dépenses et de mise à jour en temps réel.
