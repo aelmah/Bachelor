@@ -18,7 +18,7 @@
       - [Semestre 5](#Semestre_5)
       - [Semestre 6](#Semestre_6)
 
-- [Highlights](Highlights)
+- [Projets](Projets)
 - [Avertissement](#avertissement)
 - [Informations de contact](#informations-de-contact)
 
@@ -142,22 +142,22 @@ Non
 
 
 ---
-## Highlights
+## Projets 
 Dans cette section, j'ai mis en avant certains des meilleurs devoirs et projets, selon mon avis.
 
    * **1. Détection et Classification des images en utilisant CNN**
      
       * **Description:**
-         Ce projet consiste en la détection et la classification d'images à l'aide du dataset Fashion MNIST, qui comprend 70 000 images de vêtements et accessoires en noir et blanc, classés en 10 catégories différentes. Pour cette tâche, j'ai développé un modèle de réseau de neurones convolutionnels (CNN) qui exploite la puissance des convolutions pour extraire les caractéristiques essentielles des images et améliorer les performances de classification.
+         Ce projet consiste en la détection et la classification d'images à l'aide du dataset **Fashion MNIST**, qui comprend 70 000 images de vêtements et accessoires en noir et blanc, classés en 10 catégories différentes. Pour cette tâche, j'ai développé un modèle de **réseau de neurones convolutionnels (CNN)** qui exploite la puissance des convolutions pour extraire les caractéristiques essentielles des images et améliorer les performances de classification.
 
       * **Méthodologie:**
         * Prétraitement des données : Les images ont été normalisées et redimensionnées pour garantir une entrée uniforme dans le modèle.
           
         * Architecture du CNN : J'ai conçu un modèle comprenant plusieurs couches convolutionnelles, suivies de couches de pooling, et enfin, des couches entièrement connectées pour la classification finale.
           
-        * Entraînement : Le modèle a été entraîné sur un ensemble d'apprentissage, avec une validation croisée pour ajuster les hyperparamètres et éviter le surapprentissage.
+        * Entraînement : Le modèle a été entraîné sur un ensemble d'apprentissage,   les hyperparamètres sont ajuster pour éviter le surapprentissage.
         * Évaluation : Les performances du modèle ont été évaluées sur un ensemble de test, en mesurant des métriques telles que la précision, le rappel et le score F1.
-        * **Resultats:** Le modèle a atteint une précision de classification de [91]%, démontrant ainsi son efficacité dans la reconnaissance des différentes catégories de vêtements.
+        * **Resultats:** Le modèle a atteint une précision de classification de **91%**, démontrant ainsi son efficacité dans la reconnaissance des différentes catégories de vêtements.
       * Fichier: [Détection et Classification des images](https://github.com/almasstudyjourney/BSc-Data-Engineering-and-Software-Development/tree/main/Semester%206/Artificial%20Intelligence%20/Deep%20Learning/Projet4)
    * **2.Tableau de Bord Suivi des Finances Personnelles**
       * **Description:** Ce projet consiste à créer un tableau de bord interactif pour le suivi des finances personnelles à l'aide de **Power BI**. L'objectif est de fournir aux utilisateurs une plateforme visuelle qui permet une vue d'ensemble claire et intuitive de leur situation financière, facilitant ainsi la gestion de leurs revenus, de leurs dépenses et de leur épargne.
