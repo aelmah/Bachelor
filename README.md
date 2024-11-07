@@ -18,7 +18,8 @@
       - [Semestre 5](#Semestre_5)
       - [Semestre 6](#Semestre_6)
 
-- [Projets](Projets)
+- [Projets](#Projets)
+- [Notes](#Notes)
 - [Avertissement](#avertissement)
 - [Informations de contact](#informations-de-contact)
 
@@ -173,7 +174,16 @@ Dans cette section, j'ai mis en avant certains des meilleurs devoirs et projets,
       * **Fichier:**  [Personal Financial Dashboard - Power BI](https://github.com/almasstudyjourney/BSc-Data-Engineering-and-Software-Development/tree/main/Semester%206/Advanced%20Databases/Projet)
 
         
-  
+---
+## Notes 
+
+| Semester         | Module                  | Project Title                                        | Note |
+|------------------|-------------------------|------------------------------------------------------|------|
+| First Semester   | OOP Java                | Grade Management Application                         | 15   |
+|                  | Python for Data Science | Correspondence Analysis (CA)                         | 16.5 |
+| Second Semester  | Artificial Intelligence | Image Recognition and Classification with CNN        | 18   |
+|                  | Advanced Databases      | Personal Financial Dashboard (Power BI)              | 16   |
+| Final Project    | Thesis Project          | Sentiment and Emotions Analysis                      | 18.5 |
 
 
 
