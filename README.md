@@ -173,17 +173,17 @@ Dans cette section, j'ai mis en avant certains des meilleurs devoirs et projets,
 
       * **Fichier:**  [Personal Financial Dashboard - Power BI](https://github.com/almasstudyjourney/BSc-Data-Engineering-and-Software-Development/tree/main/Semester%206/Advanced%20Databases/Projet)
 
-        
----
 ## Notes 
 
-| Semester         | Module                  | Project Title                                        | Note |
-|------------------|-------------------------|------------------------------------------------------|------|
-| First Semester   | OOP Java                | Grade Management Application                         | 15   |
-|                  | Python for Data Science | Correspondence Analysis (CA)                         | 16.5 |
-| Second Semester  | Artificial Intelligence | Image Recognition and Classification with CNN        | 18   |
-|                  | Advanced Databases      | Personal Financial Dashboard (Power BI)              | 16   |
-| Final Project    | Thesis Project          | Sentiment and Emotions Analysis                      | 18.5 |
+| Semestre         | Module                        | Titre du projet                                      | Note |
+|------------------|-------------------------------|------------------------------------------------------|------|
+| Premier Semestre | OOP Java                      | Application de gestion des notes                     | **15**/20   |
+|                  | Python pour Data Science      | Analyse factorielle des correspondances (AFC)        | **16.5**/20 |
+| Deuxième Semestre| Intelligence Artificielle     | Reconnaissance et classification d'images avec CNN   | **18**/20  |
+|                  | Bases de données avancées     | Tableau de bord financier personnel (Power BI)       | **16**/20  |
+|                  | Gestion de projet et Soft Skills | La communication et La capacité d'écoute               | **18**/20   |
+| Projet Final     | Projet de thèse                | Analyse des sentiments et des émotions              | **18.5**/20 |
+
 
 
 
