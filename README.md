@@ -172,20 +172,22 @@ Dans cette section, j'ai mis en avant certains des meilleurs devoirs et projets,
         * Évolution Mensuelle : Suivi de l'évolution des revenus et des dépenses au fil des mois à l'aide de graphiques linéaires.
 
       * **Fichier:**  [Personal Financial Dashboard - Power BI](https://github.com/almasstudyjourney/BSc-Data-Engineering-and-Software-Development/tree/main/Semester%206/Advanced%20Databases/Projet)
-      * **3. Analyse des Sentiments et des Emotions**
+      * **3. Analyse des Sentiments et des Emotions**: [Disponible Ici](https://github.com/almasstudyjourney/BSc-Thesis-Project-Sentiment-Analysis/tree/main)
 
-[Disponible Ici](https://github.com/almasstudyjourney/BSc-Thesis-Project-Sentiment-Analysis/tree/main)
+
 
 ## Notes 
 
-| Semestre         | Module                        | Titre du projet                                      | Note |
-|------------------|-------------------------------|------------------------------------------------------|------|
-| Premier Semestre | OOP Java                      | Application de gestion des notes                     | **15**/20   |
-|                  | Python pour Data Science      | Analyse factorielle des correspondances (AFC)        | **16.5**/20 |
-| Deuxième Semestre| Intelligence Artificielle     | Reconnaissance et classification d'images avec CNN   | **18**/20  |
-|                  | Bases de données avancées     | Tableau de bord financier personnel (Power BI)       | **16**/20  |
-|                  | Gestion de projet et Soft Skills | La communication et La capacité d'écoute               | **18**/20   |
-| Projet Final     | Projet de thèse                | Analyse des sentiments et des émotions              | **18.5**/20 |
+## Détails des Projets et Notes
+
+| Semestre         | Module                        | Titre du projet                                      | Note    | Lien du Projet           |
+|------------------|-------------------------------|------------------------------------------------------|---------|--------------------------|
+| **Premier Semestre** | Python pour Data Science      | Analyse factorielle des correspondances (AFC)        | **16.5**/20 | [Lien](https://github.com/almasstudyjourney/BSc-Data-Engineering-and-Software-Development/tree/main/Semester%205/Python%20for%20Data%20Science/Project) |                  
+| **Deuxième Semestre** | Intelligence Artificielle     | Reconnaissance et classification d'images avec CNN   | **18**/20  | [Lien](https://github.com/almasstudyjourney/BSc-Data-Engineering-and-Software-Development/tree/main/Semester%206/Artificial%20Intelligence%20/Deep%20Learning/Projet4)  |
+|                  | Bases de données avancées     | Tableau de bord financier personnel (Power BI)       | **16**/20  | [Lien](https://github.com/almasstudyjourney/BSc-Data-Engineering-and-Software-Development/tree/main/Semester%206/Artificial%20Intelligence%20/Deep%20Learning/Projet4) |
+|                  | Gestion de projet et Soft Skills | La communication et La capacité d'écoute            | **18**/20  | [Lien](https://github.com/almasstudyjourney/BSc-Data-Engineering-and-Software-Development/tree/main/Semester%206/%20Project%20Management%20%26%20Soft%20Skills) |
+| **Projet Final**     | Projet de thèse                | Analyse des sentiments et des émotions              | **18.5**/20 | [Lien](https://github.com/almasstudyjourney/BSc-Thesis-Project-Sentiment-Analysis/tree/main)|
+
 
 
 
