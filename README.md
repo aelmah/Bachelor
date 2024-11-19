@@ -195,15 +195,50 @@ Dans cette section, j'ai mis en avant certains des meilleurs devoirs et projets,
 
 
 ---
-## Langages, Outils et Technologies
+#### Langages, Outils et Technologies
 
 Au cours de ma formation, j'ai eu l'opportunité de travailler avec divers langages de programmation, outils et technologies. Voici une liste des principaux :
 
-| **Catégorie**            | **Langages/ Outils/ Technologies**                                                |
-|--------------------------|-----------------------------------------------------------------------------------|
-| **Langages de Programmation** | - **Python** : Pour l'analyse de données, machine learning, et développement de scripts. <br> - **Java** : Programmation orientée objet et développement d'applications. <br> - **C** : Programmation bas niveau et manipulation des structures de données. <br> - **SQL/ PL SQL** : Requêtes pour la gestion de bases de données relationnelles. <br> - **HTML/CSS/JavaScript** : Développement de sites web dynamiques. |
-| **Outils et Technologies** | - **Jupyter Notebook** : Environnement de développement interactif pour Python. <br> - **TensorFlow/Keras/ Scikit-learn** : Bibliothèques pour le machine learning et le deep learning. <br> - **Git/GitHub** : Gestion du code source et collaboration. <br> - **MySQL/ PL/SQL** : Gestion et interrogation de bases de données. <br> - **Power BI** : Outil de visualisation de données pour des rapports dynamiques. <br> - **UML** : Pour la modélisation et conception des systèmes logiciels. <br> - **Django/Flask/Streamlit** : Frameworks pour le développement web en Python. <br> - **Pandas, NumPy, Matplotlib, Seaborn** : Bibliothèques Python pour l'analyse de données et la visualisation. |
-| **Environnements de Développement** | - **VS Code** : Éditeur de code pour plusieurs langages. <br> - **PyCharm** : IDE dédié à Python pour le développement. <br> - **IntelliJ IDEA** : IDE pour le développement en Java. <br> - **Linux** : Système d'exploitation utilisé pour le développement et l'administration de systèmes. |
+#### Langages de Programmation
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" height="50"/>
+</p>
+
+#### Outils et Technologies
+<p align="left">
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" height="50"/>
+  <img src="https://img.icons8.com/nolan/64/github.png" alt="GitHub" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50"/>
+ <img src="https://img.icons8.com/ios-filled/50/000000/flow-chart.png" alt="UML" width="50" height="50"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo.png" alt="Django" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="50" height="50"/>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" width="50" height="50"/>
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="50" height="50"/>
+  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="50" height="50"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/>
+</p>
+
+#### Environnements de Développement
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="50" height="50"/>
+</p>
+
+
 
 
 
