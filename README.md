@@ -201,33 +201,37 @@ Au cours de ma formation, j'ai eu l'opportunité de travailler avec divers langa
 
 #### Langages de Programmation
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/r-project.png" alt="R Language" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="PL/SQL" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" height="50"/>
 </p>
 
 #### Outils et Technologies
 <p align="left">
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" height="50"/>
+  <img src="https://img.icons8.com/nolan/64/github.png" alt="GitHub" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/flow-chart.png" alt="UML" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/keras.png" alt="Keras" width="50" height="50"/>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-numpy-coding-and-development-flat-flat-juicy-fish.png" alt="NumPy" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib" width="50" height="50"/>
-  <img src="https://img.icons8.com/ios/50/4a90e2/seaborn.png" alt="Seaborn" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="50" height="50"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jupyter-is-an-open-source-web-application-for-creating-python-notebook-files-logo-shadow-tal-revivo.png" alt="Jupyter Notebook" width="50" height="50"/>
-  <img src="https://img.icons8.com/ios-filled/50/007ACC/rstudio.png" alt="RStudio" width="50" height="50"/>
-</p>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo.png" alt="Django" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="50" height="50"/>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" width="50" height="50"/>
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="50" height="50"/>
+  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="50" height="50"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" width="50" height="50"/>
+ <img src="https://img.icons8.com/color/48/000000/latex.png" alt="LaTeX" width="50" height="50"/>
 
+
+</p>
 
 #### Environnements de Développement
 <p align="left">
@@ -238,6 +242,9 @@ Au cours de ma formation, j'ai eu l'opportunité de travailler avec divers langa
 </p>
 
 
+
+
+#### 
 
 
 
