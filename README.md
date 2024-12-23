@@ -35,7 +35,7 @@ Chaque projet inclut la solution soumise, qui se compose généralement d'un rap
 ## Navigation
 Pour explorer les projets, vous pouvez naviguer à travers les dossiers correspondant à chaque cours. Chaque dossier est généralement structuré comme suit :
 
- **``{Nom_du_projet ou ID_évaluation}/``**  Contient les fichiers du projet, y compris le code, la documentation et toutes les ressources supplémentaires.
+ **``{Nom_du_projet }/``**  Contient les fichiers du projet, y compris le code, la documentation et toutes les ressources supplémentaires.
  
 **``README.md/``** : Fournit un aperçu du projet, ses objectifs, ainsi que des instructions pour exécuter ou reproduire l'analyse (si applicable).
 Le fichier README.md contient également des informations concernant le cours (nombre de projets, examens finaux, projets individuels/de groupe, etc.). 
