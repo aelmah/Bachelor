@@ -172,7 +172,7 @@ Dans cette section, j'ai mis en avant certains des meilleurs devoirs et projets,
         * Évolution Mensuelle : Suivi de l'évolution des revenus et des dépenses au fil des mois à l'aide de graphiques linéaires.
 
       * **Fichier:**  [Personal Financial Dashboard - Power BI](https://github.com/almasstudyjourney/BSc-Data-Engineering-and-Software-Development/tree/main/Semester%206/Advanced%20Databases/Projet)
-      * **3. Analyse des Sentiments et des Emotions**: [Disponible Ici](https://github.com/almasstudyjourney/BSc-Thesis-Project-Sentiment-Analysis/tree/main)
+      * **3. Analyse des Sentiments et Détection des Emotions**: [Disponible Ici](https://github.com/almasstudyjourney/BSc-Thesis-Project-Sentiment-Analysis/tree/main)
 
 
 
