@@ -251,7 +251,6 @@ Au cours de ma formation, j'ai eu l'opportunité de travailler avec divers langa
 ## Avertissement
 Veuillez noter que ce dépôt est destiné uniquement à des fins éducatives et de portfolio. Il représente mon évolution et mes progrès en tant qu'étudinate en Ingénierie de données et Développement Logiciel au cours de mes études. Certains projets peuvent inclure du code ou des solutions fournies dans le cadre des matériaux de cours, tandis que d'autres peuvent impliquer un travail collaboratif avec des camarades ou des conseils d'instructeurs.
 
-Il est important de respecter les politiques d'intégrité académique et les directives de votre propre institution lorsque vous utilisez ce dépôt comme référence.
 
 
 ---
